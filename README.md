@@ -1,3 +1,7 @@
+# HEADS UP
+This project no longer maintained here!
+Check https://github.com/kwak123/loco-api for the latest updates.
+
 # loco-api
 
 Open access API for our front-end and mobile apps
